@@ -2,7 +2,7 @@
 
 Pseudocode:
 
-Start program
+Start program\n
 prompt: Welcome text
 prompt question: Which part do you need?
 input: part name
